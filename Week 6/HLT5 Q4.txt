@@ -1,0 +1,12 @@
+/* Question 4 */
+
+public class Calculate
+{
+    public static void main(String args[])
+    {
+        for(int i =10; i>=0; i--)
+        {
+            System.out.println(i);
+        }
+    }
+}
